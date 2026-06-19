@@ -16,3 +16,10 @@ hiroe28 が公開しているアプリのサポートページとプライバシ
 
 - [サポート](https://hiroe28.github.io/app-support/moon-support)
 - [プライバシーポリシー](https://hiroe28.github.io/app-support/moon-privacy)
+
+## ひとことアルバム
+
+1日1枚の写真に「ひとこと」を添えて、子どもの“今”をむりなく残せる写真日記アプリです。好きな期間をまとめてカラーPDFに書き出せます。
+
+- [サポート](https://hiroe28.github.io/app-support/album-support)
+- [プライバシーポリシー](https://hiroe28.github.io/app-support/album-privacy)
